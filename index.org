@@ -1,4 +1,7 @@
-#+title: Index
+#+title: Plant Gallery
+#+OPTIONS: author:nil timestamp:nil
+#+HTML_HEAD: <style type="text/css">
+#+HTML_HEAD: </style>
 
-- [[file:Camellia_Tsaii.jpg][Camellia Tsaii]]
-- [[file:Echeveria_Pulvinata_Frosty.jpg][Echeveria Pulvinata Frosty]]
+1. [[file:Camellia_Tsaii.jpg][Camellia Tsaii]]
+2. [[file:Echeveria_Pulvinata_Frosty.jpg][Echeveria Pulvinata Frosty]]
