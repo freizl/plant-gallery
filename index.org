@@ -3,5 +3,9 @@
 #+HTML_HEAD: <style type="text/css">
 #+HTML_HEAD: </style>
 
-1. [[file:Camellia_Tsaii.jpg][Camellia Tsaii]]
-2. [[file:Echeveria_Pulvinata_Frosty.jpg][Echeveria Pulvinata Frosty]]
+1. [[file:Camellia_Tsaii.jpg][Camellia_Tsaii]]
+2. [[file:Echeveria_Pulvinata_Frosty.jpg][Echeveria_Pulvinata_Frosty]]
+3. [[file:Magnolia_Alexandria.jpg][Magnolia Alexandria]]
+4. [[file:Acer_Sango_Kaku.jpg][Acer_Sango_Kaku]]
+5. [[file:Arbutus_Unedo_Strawberry_Tree.jpg][Arbutus_Unedo_Strawberry_Tree]]
+6. [[file:Gardenia_August_Beauty_Patio_Tree.jpg][Gardenia_August_Beauty_Patio_Tree]]
