@@ -1,11 +1,26 @@
 #+title: Plant Gallery
 #+OPTIONS: author:nil timestamp:nil
-#+HTML_HEAD: <style type="text/css">
-#+HTML_HEAD: </style>
 
-1. [[file:Camellia_Tsaii.jpg][Camellia_Tsaii]]
-2. [[file:Echeveria_Pulvinata_Frosty.jpg][Echeveria_Pulvinata_Frosty]]
-3. [[file:Magnolia_Alexandria.jpg][Magnolia Alexandria]]
-4. [[file:Acer_Sango_Kaku.jpg][Acer_Sango_Kaku]]
-5. [[file:Arbutus_Unedo_Strawberry_Tree.jpg][Arbutus_Unedo_Strawberry_Tree]]
-6. [[file:Gardenia_August_Beauty_Patio_Tree.jpg][Gardenia_August_Beauty_Patio_Tree]]
+#+CAPTION: Acer Sango Kaku
+#+ATTR_HTML: :width 300px
+[[file:Acer_Sango_Kaku.jpg]]
+
+#+CAPTION: Arbutus Unedo Strawberry Tree
+#+ATTR_HTML: :width 300px
+[[file:Arbutus_Unedo_Strawberry_Tree.jpg]]
+
+#+CAPTION: Camellia Tsaii
+#+ATTR_HTML: :width 300px
+[[file:Camellia_Tsaii.jpg]]
+
+#+CAPTION: Echeveria Pulvinata Frosty
+#+ATTR_HTML: :width 300px
+[[file:Echeveria_Pulvinata_Frosty.jpg]]
+
+#+CAPTION: Gardenia August Beauty Patio Tree
+#+ATTR_HTML: :width 300px
+[[file:Gardenia_August_Beauty_Patio_Tree.jpg]]
+
+#+CAPTION: Magnolia Alexandria
+#+ATTR_HTML: :width 300px
+[[file:Magnolia_Alexandria.jpg]]
