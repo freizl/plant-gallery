@@ -9,9 +9,17 @@
 #+ATTR_HTML: :width 300px
 [[file:Arbutus_Unedo_Strawberry_Tree.jpg]]
 
+#+CAPTION: Berberis Thunbergii Concorde
+#+ATTR_HTML: :width 300px
+[[file:Berberis_Thunbergii_Concorde.jpg]]
+
 #+CAPTION: Camellia Tsaii
 #+ATTR_HTML: :width 300px
 [[file:Camellia_Tsaii.jpg]]
+
+#+CAPTION: Ceanothus griseus horizontalis Carmel Creeper
+#+ATTR_HTML: :width 300px
+[[file:Ceanothus_griseus_horizontalis_Carmel_Creeper.jpg]]
 
 #+CAPTION: Echeveria Pulvinata Frosty
 #+ATTR_HTML: :width 300px
@@ -21,6 +29,26 @@
 #+ATTR_HTML: :width 300px
 [[file:Gardenia_August_Beauty_Patio_Tree.jpg]]
 
+#+CAPTION: Grevillea Mt Tamboritha
+#+ATTR_HTML: :width 300px
+[[file:Grevillea_Mt_Tamboritha.jpg]]
+
+#+CAPTION: Lavender Ahgustifolia Hidlote Blue
+#+ATTR_HTML: :width 300px
+[[file:Lavender_Ahgustifolia_Hidlote_Blue.jpg]]
+
 #+CAPTION: Magnolia Alexandria
 #+ATTR_HTML: :width 300px
 [[file:Magnolia_Alexandria.jpg]]
+
+#+CAPTION: Nandina Domestica Moon Bay
+#+ATTR_HTML: :width 300px
+[[file:Nandina_Domestica_Moon_Bay.jpg]]
+
+#+CAPTION: Spairea Gold Flame
+#+ATTR_HTML: :width 300px
+[[file:Spairea_Gold_Flame.jpg]]
+
+#+CAPTION: Telkrium Frutians Compacta
+#+ATTR_HTML: :width 300px
+[[file:Telkrium_Frutians_Compacta.jpg]]
