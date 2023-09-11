@@ -1,5 +1,5 @@
 #+title: Plant Gallery
-#+OPTIONS: author:nil timestamp:nil toc:nil validator:nil
+#+OPTIONS: author:nil timestamp:nil toc:nil
 #+HTML_HEAD: <style type="text/css">
 #+HTML_HEAD: .outline-2 h2 {display:none;} .outline-text-2 {column-count:2;}
 #+HTML_HEAD: </style>
